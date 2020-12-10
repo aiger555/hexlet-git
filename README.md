@@ -1,2 +1,1 @@
-Hello, Hexlet!
-# hexlet-g
+Hello, Hexlet! How are you?
